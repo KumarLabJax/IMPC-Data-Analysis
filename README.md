@@ -6,7 +6,7 @@ The purpose of this code is to download KOMP metadata relating to a variety of p
 
 ## Prerequisites 
 Python 3,
-Gawk, R, and a unix emulator if you are on pc 
+Gawk, R, and a unix emulator if you are on pc (I use cygwin) 
 
 ### Packages
 
