@@ -16,7 +16,7 @@ R
 Python packages: csv, pandas, numpy, sys, requests, bs4, os, subprocess, time, datetime, re, glob, lxml, and pprint
 
 #### R
-R packages:ggplot2, stringr, dplyr, reshape2, lubridate, gdata, readr, tidyr, Hmisc, plyr, zoo, and signal
+R packages: ggplot2, stringr, dplyr, reshape2, lubridate, gdata, readr, tidyr, Hmisc, plyr, zoo, and signal
 
 ## Step By Step Instructions For Running The Code
 
