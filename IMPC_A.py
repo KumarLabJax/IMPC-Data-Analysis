@@ -86,4 +86,4 @@ def DownloadAll(procedure_code, number_of_rows, rewrite = False):
 	return_procedure_group(procedure_code, number_of_rows, rewrite)
 
 if __name__ == '__main__':
-	DownloadAll("OFD", 1000000000)
+	DownloadAll("OFD", 10000000)
